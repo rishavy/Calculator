@@ -31,4 +31,7 @@ If you'd like to contribute or report issues, please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`
 5. Create a pull request
 
+## Contact
+[GitHub](https://github.com/rishavy)  [LinkedIn](https://www.linkedin.com/in/yadavrishav)
+
 Feel free to reach out for any questions or feedback. Happy coding! 🚀
